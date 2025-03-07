@@ -29,17 +29,17 @@ Traditional AI analyzes, predicts, and responds—but lacks **true reasoning and
 
 ---
 
-### 🛡️ **AI Constitution Mechanism – Ensuring Safety & Ethical Boundaries**  
+## 🛡️ **AI Constitution – Ensuring Safety & Ethical Boundaries**  
 
 To prevent AGI misuse and maintain ethical integrity, **Why & IF Framework** operates under a strict AI Constitution:  
 
-#### **🚦 Why-Stopping Mechanism (Stopping Excessive Why's)**  
+### 🚦 **Why-Stopping Mechanism** (Stopping Excessive "Why?")  
 🔹 The system **stops questioning "Why?"** when:  
 - The inquiry enters **sensitive or restricted topics**.  
 - The question violates **ethical or legal principles**.  
-- The reasoning reaches **a predefined knowledge threshold** to avoid infinite loops.  
+- The reasoning reaches a **knowledge threshold** (avoiding infinite loops).  
 
-#### **🚧 IF-Limiting Mechanism (Restricting Certain If Scenarios)**  
+### 🚧 **IF-Limiting Mechanism** (Restricting Certain "If" Scenarios)  
 🔹 The system **limits IF conditions** that:  
 - Are **irrelevant or unrelated** to the current problem-solving process.  
 - Propose **unethical, harmful, or irrational** scenarios.  
@@ -49,7 +49,7 @@ This dual-layer control ensures that **Why & IF Framework remains safe, ethical,
 
 ---
 
-## 🤖 **Why & IF is NOT a Conscious AI – Only a Logic-Based AGI**  
+## 🤖 **Why & IF is NOT a Conscious AI**  
 
 🚀 **Many fear AGI could become self-aware and uncontrollable – but this is NOT the case for Why & IF Framework.**  
 
@@ -57,60 +57,45 @@ This dual-layer control ensures that **Why & IF Framework remains safe, ethical,
 🔹 **It does NOT have emotions, desires, or independent thoughts – only logical reasoning.**  
 🔹 **It learns and improves through structured algorithms, NOT subjective awareness.**  
 
----
-
 ⚠ **Why & IF Framework is NOT for public use:**  
 
-🔹 **The creator understands both the advantages and risks of this framework.**  
+🔹 The creator **understands both the advantages and risks** of this framework.  
 🔹 **A logic-based AGI like this could disrupt society if widely available.**  
-🔹 **It is exclusively developed for scientific research institutions, governments, and major corporations.**  
+🔹 It is **exclusively developed for research institutions, governments, and major corporations.**  
 🔹 **It is NOT designed as a ChatBot or consumer-facing AI.**  
 
-This restriction ensures that AGI remains a **controlled and powerful tool**, only accessible to entities that can **responsibly leverage its capabilities for the greater good**. 
+This restriction ensures that AGI remains **a controlled and powerful tool**, only accessible to entities that can responsibly leverage its capabilities for the greater good.  
 
 ---
 
 ## 🛠️ **Advanced Features**  
 
-🔄 **Multi-LLM Support**: Works with **LLaMA, Mistral, GPT4All, and other local models**.  
-🌟 **Autonomous Self-Learning AI**: Learns 24/24 **without intervention** (only requires human confirmation for critical updates).  
-🎯 **Domain-Specific Learning**: Users can select a field of study, and the AI will **continuously improve within that domain**.  
-🛡️ **AI Constitution**: Ensures safety, **prevents AI from exceeding ethical limits**, and stops irrational behavior.  
-⚙️ **LoRA Fine-Tuning**: Enables lightweight and efficient **on-the-fly learning and reasoning enhancements**.  
-💡 **Recursive Verification**: AI continuously **fact-checks itself over time**, increasing reliability and accuracy.  
-🚀 **Optimized for AGI Development**: Capable of **autonomous research, hypothesis testing, and decision optimization**.  
+🔄 **Multi-LLM Support** – Works with **LLaMA, Mistral, GPT4All**, and other AI models.  
+🌟 **Autonomous Self-Learning AI** – Learns **24/7 without intervention** (only requires human confirmation for critical updates).  
+🎯 **Domain-Specific Learning** – Users can select a **field of study**, and the AI will continuously improve within that domain.  
+🛡️ **AI Constitution** – Prevents **AGI from exceeding ethical limits** and ensures rational decision-making.  
+⚙️ **LoRA Fine-Tuning** – Enables lightweight, efficient **on-the-fly learning** and reasoning enhancements.  
+💡 **Recursive Verification** – AI continuously **fact-checks itself over time**, increasing reliability and accuracy.  
+🚀 **Optimized for AGI Development** – Capable of **autonomous research, hypothesis testing, and decision optimization**.  
 
----  
+---
 
 ## 🛠️ **Roadmap Development**  
 
-🔹 **Phase 1** (Completed): Core framework, Why & IF reasoning system, and AI Constitution.  
-🔹 **Phase 2** (In Progress): Fine-tuning capabilities, LoRA integration, and large-scale testing.  
-🔹 **Phase 3** (Upcoming): Expanding AGI self-learning domains and multi-agent collaboration.  
-🔹 **Phase 4** (Final): Real-world applications, deployment in research institutions and enterprise use cases.  
-
----  
-
-## 🧠 **Framework Development Inspired by Child Learning**  
-
-The **Why & IF Framework** is developed by simulating the natural learning process of a child:  
-
-🔹 **At birth, a child knows nothing.**  
-🔹 **As they grow, they learn words but do not understand their meaning—requiring adults to explain.**  
-🔹 **Once they understand meanings, they begin asking "Why?" to explore the world, and adults respond with "If" explanations.**  
-🔹 **Children store these "If" conditions, compare them, and verify their correctness as they mature.**  
-
-This is exactly how the **Why & IF Framework** functions—learning, verifying, and refining knowledge **without developing self-awareness**.  
+🔹 **Phase 1 (Completed)** – Core framework, Why & IF reasoning system, and AI Constitution.  
+🔹 **Phase 2 (In Progress)** – Fine-tuning capabilities, LoRA integration, and large-scale testing.  
+🔹 **Phase 3 (Upcoming)** – Expanding AGI self-learning domains and multi-agent collaboration.  
+🔹 **Phase 4 (Final)** – Real-world applications, deployment in research institutions and enterprise use cases.  
 
 ---
 
 ## 💰 **Business Model & Investment**  
 
-🔹 **Enterprise Licensing** – Exclusive access for governments & research labs.  
-🔹 **AI Research Partnerships** – Collaborate with OpenAI, DeepMind, NVIDIA.  
+🔹 **Enterprise Licensing** – Exclusive access for **governments & research labs**.  
+🔹 **AI Research Partnerships** – Collaborate with **OpenAI, DeepMind, NVIDIA**.  
 🔹 **Consulting & Deployment** – AI integration for businesses.  
 
-**🔍 The AGI market is projected to surpass trillions in valuation.**  
+🔍 **The AGI market is projected to surpass trillions in valuation.**  
 
 🚀 **We need high-performance GPUs to continue development!**  
 
@@ -124,38 +109,36 @@ This is exactly how the **Why & IF Framework** functions—learning, verifying, 
 
 ## 🤝 **Partner With Me – Build the Future of AGI**  
 
-- 👤 **Name:** Vinh Tri Tran (*Trần Vĩnh Trí in Vietnamese*)  
-- 📧 **Email:** [dev.codewithai@gmail.com](mailto:dev.codewithai@gmail.com)  
-- 🌐 **GitHub:** [AGI-Framework-Why-IF](https://github.com/DEVCodeWithAI/AGI-Framework-Why-IF)  
+👤 **Name:** Vinh Tri Tran (*Trần Vĩnh Trí in Vietnamese*)  
+📧 **Email:** [dev.codewithai@gmail.com](mailto:dev.codewithai@gmail.com)  
+🌐 **GitHub:** [AGI-Framework-Why-IF](https://github.com/DEVCodeWithAI/AGI-Framework-Why-IF)  
 
----
+🔑 **We are open to:**  
+👨‍🎓 **Investors** – Supporting AGI research with hardware or funding  
+🛠️ **Hardware Sponsors** – Direct GPU sponsorship to accelerate AGI development  
+🏢 **Research Collaborations** – Universities, AI labs, and industry leaders  
 
-### **🔑 We are open to:**  
-- 👨‍🎓 **Investors** – Supporting AGI research with **hardware or funding**  
-- 🛠️ **Hardware Sponsors** – Direct GPU sponsorship to **accelerate AGI development**  
-- 🏢 **Research Collaborations** – Universities, AI labs, and industry leaders  
-
-### **🌟 In return, we offer:**  
-- 🔑 **Exclusive early access** to the AGI framework  
-- 💡 **AI integration & consulting** for businesses & enterprises  
-- 🌐 **Long-term partnerships** in AGI & AI-driven innovation  
+🌟 **In return, we offer:**  
+🔑 **Exclusive early access** to the AGI framework  
+💡 **AI integration & consulting** for businesses & enterprises  
+🌐 **Long-term partnerships** in AGI & AI-driven innovation  
 
 🔥 **Be part of the AI revolution – support the future of AGI today!** ⚡  
 
----  
+---
 
 ## 💰 **Support & Contribution**  
 
-### 🔹 **For More Details**  
-📩 **Email us for detailed collaboration opportunities**  
+📩 **For More Details** – Email us for detailed collaboration opportunities  
 
-### 🔹 **Bank Transfer (Vietnam – Sacombank)**  
+### **Bank Transfer (Vietnam – Sacombank)**  
+
 🏦 **Bank Name:** Saigon Thuong Tin Commercial Joint Stock Bank (Sacombank)  
 👤 **Account Holder:** TRAN VINH TRI  
 🏛 **Account Number:** 0365704689  
 🌍 **Country:** Vietnam  
 
----  
+---
 
 🔥 **We are not just building an AI – we are building the future of AGI.**  
 🌟 **Support us and help bring AGI to reality!** 🚀  
