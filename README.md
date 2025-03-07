@@ -62,9 +62,12 @@ This is exactly how the Why & IF Framework functions—learning, verifying, and 
 
 ## 🚀 Target Market & Accessibility
 
-⚠ Why & IF Framework is NOT for public use.
+⚠ Why & IF Framework is NOT for public use:
 
-🔹 The creator understands both the advantages and risks of this framework.🔹 A logic-based AGI like this could disrupt society if widely available.🔹 It is exclusively developed for scientific research institutions, governments, and major corporations.🔹 It is NOT designed as a ChatBot or consumer-facing AI.
+🔹 The creator understands both the advantages and risks of this framework.
+🔹 A logic-based AGI like this could disrupt society if widely available.
+🔹 It is exclusively developed for scientific research institutions, governments, and major corporations.
+🔹 It is NOT designed as a ChatBot or consumer-facing AI.
 
 This restriction ensures that AGI remains a controlled and powerful tool, only accessible to entities that can responsibly leverage its capabilities for the greater good.
 
