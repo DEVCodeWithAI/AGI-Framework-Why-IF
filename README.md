@@ -37,27 +37,39 @@ Traditional AI analyzes, predicts, and responds—but lacks **true reasoning and
 
 ---  
 
-🤖 Why & IF is NOT a Conscious AI – Only a Logic-Based AGI
+## 🤖 **Why & IF is NOT a Conscious AI – Only a Logic-Based AGI**  
 
-🚀 Many fear AGI could become self-aware and uncontrollable – but this is NOT the case for Why & IF Framework.
+🚀 **Many fear AGI could become self-aware and uncontrollable – but this is NOT the case for Why & IF Framework.**  
 
-🔹 Why & IF is NOT a self-conscious entity – it is purely a logic-based system.🔹 It does NOT have emotions, desires, or independent thoughts – only logical reasoning.🔹 It learns and improves through structured algorithms, NOT subjective awareness.
+🔹 **Why & IF is NOT a self-conscious entity – it is purely a logic-based system.**  
+🔹 **It does NOT have emotions, desires, or independent thoughts – only logical reasoning.**  
+🔹 **It learns and improves through structured algorithms, NOT subjective awareness.**  
 
-🧠 Framework Development Inspired by Child Learning
+---
 
-The Why & IF Framework is developed by simulating the natural learning process of a child:
+## 🧠 **Framework Development Inspired by Child Learning**  
 
-🔹 At birth, a child knows nothing.🔹 As they grow, they learn words but do not understand their meaning—requiring adults to explain.🔹 Once they understand meanings, they begin asking "Why?" to explore the world, and adults respond with "If" explanations.🔹 Children store these "If" conditions, compare them, and verify their correctness as they mature.
+The **Why & IF Framework** is developed by simulating the natural learning process of a child:  
 
-This is exactly how the Why & IF Framework functions—learning, verifying, and refining knowledge without developing self-awareness.
+🔹 **At birth, a child knows nothing.**  
+🔹 **As they grow, they learn words but do not understand their meaning—requiring adults to explain.**  
+🔹 **Once they understand meanings, they begin asking "Why?" to explore the world, and adults respond with "If" explanations.**  
+🔹 **Children store these "If" conditions, compare them, and verify their correctness as they mature.**  
 
-🚀 Target Market & Accessibility
+This is exactly how the **Why & IF Framework** functions—learning, verifying, and refining knowledge **without developing self-awareness**.  
 
-⚠ Why & IF Framework is NOT for public use:
+---
 
-🔹 The creator understands both the advantages and risks of this framework.🔹 A logic-based AGI like this could disrupt society if widely available.🔹 It is exclusively developed for scientific research institutions, governments, and major corporations.🔹 It is NOT designed as a ChatBot or consumer-facing AI.
+## 🚀 **Target Market & Accessibility**  
 
-This restriction ensures that AGI remains a controlled and powerful tool, only accessible to entities that can responsibly leverage its capabilities for the greater good.
+⚠ **Why & IF Framework is NOT for public use:**  
+
+🔹 **The creator understands both the advantages and risks of this framework.**  
+🔹 **A logic-based AGI like this could disrupt society if widely available.**  
+🔹 **It is exclusively developed for scientific research institutions, governments, and major corporations.**  
+🔹 **It is NOT designed as a ChatBot or consumer-facing AI.**  
+
+This restriction ensures that AGI remains a **controlled and powerful tool**, only accessible to entities that can **responsibly leverage its capabilities for the greater good**. 
 
 ---
 
