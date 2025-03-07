@@ -164,9 +164,30 @@ With these GPUs, we can:
 
 If you **believe** in the **next evolution of AI** and want to be a part of it, let's collaborate!  
 
-### **📞 Contact Information:**  
-👤 **Name:** Vinh Tri Tran (*Trần Vĩnh Trí in Vietnamese*)  
-💎 **Email:** [dev.codewithai@gmail.com](mailto:dev.codewithai@gmail.com)  
+### 📞 **Contact Information**  
+- 👤 **Name:** Vinh Tri Tran (*Trần Vĩnh Trí in Vietnamese*)  
+- 📧 **Email:** [dev.codewithai@gmail.com](mailto:dev.codewithai@gmail.com)  
+- 🌐 **GitHub:** [AGI-Framework-Why-IF](https://github.com/DEVCodeWithAI/AGI-Framework-Why-IF)  
+
+---
+
+## 💰 **Support & Contribution**  
+
+### 🔹 **For More Details**  
+📩 **Email us for detailed collaboration opportunities**  
+
+### 🔹 **Donate via PayPal**  
+💳 **PayPal Email:** [manager@rec-file.com](mailto:manager@rec-file.com)  
+
+### 🔹 **Bank Transfer (Vietnam – Sacombank)**  
+🏦 **Bank Name:** Saigon Thuong Tin Commercial Joint Stock Bank (Sacombank)  
+👤 **Account Holder:** TRAN VINH TRI  
+🏛 **Account Number:** 0365704689  
+🌍 **Country:** Vietnam  
+
+🔔 **For international transfers, ensure your bank supports SWIFT transactions.**  
+
+---
 
 ### **🔑 We are open to:**  
 - 👨‍🎓 **Investors** – Supporting AGI research with **hardware or funding**  
