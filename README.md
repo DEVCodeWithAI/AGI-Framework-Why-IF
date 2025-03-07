@@ -51,7 +51,7 @@ Traditional AI analyzes, predicts, and responds—but lacks **true reasoning and
 
 ---
 
-🚀 Target Market & Accessibility
+## 🚀 Target Market & Accessibility
 
 ⚠ Why & IF Framework is NOT for public use.
 
