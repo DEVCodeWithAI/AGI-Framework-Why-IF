@@ -77,7 +77,7 @@ If you **believe** in the **next evolution of AI** and want to be a part of it, 
 
 ---
 
-## 🚀 Get Started with AGI-Framework-Why-IF
+## 🚀 Get Started with AGI Framework Why & IF
 
 ### **Clone this repository**
 ```bash
