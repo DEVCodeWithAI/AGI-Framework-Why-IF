@@ -3,7 +3,7 @@
 🌍 **The Next Evolution of AI**  
 
 Traditional AI analyzes, predicts, and responds—but lacks **true reasoning and self-learning**.  
-**AGI Framework Why & IF ** changes that by enabling an AI that **thinks, questions, and adapts like humans**.  
+**AGI Framework Why & IF** changes that by enabling an AI that **thinks, questions, and adapts like humans**.  
 
 ---  
 
@@ -25,6 +25,8 @@ Traditional AI analyzes, predicts, and responds—but lacks **true reasoning and
 ⚙️ **LoRA Fine-Tuning**: Enables lightweight and efficient **on-the-fly learning and reasoning enhancements**.  
 💡 **Recursive Verification**: AI continuously **fact-checks itself over time**, increasing reliability and accuracy.  
 🚀 **Optimized for AGI Development**: Capable of **autonomous research, hypothesis testing, and decision optimization**.  
+🌎 **Scalable Deployment**: Can run on **personal workstations, enterprise servers, and cloud infrastructures**.  
+🛠 **Modular & Expandable**: Developers can extend its functionalities to adapt to new AI-driven challenges.  
 
 ---  
 
@@ -58,6 +60,7 @@ With these GPUs, we can:
 🛠️ **Fine-tune AGI in real-time** with **self-improving learning cycles**.  
 📊 **Scale large-scale AGI simulations** for autonomous decision-making.  
 🌟 **Advance AI beyond LLMs** into **true reasoning & self-learning AGI**.  
+🚀 **Enhance AI Constitution & Safety Protocols** with continuous risk assessments.  
 
 🔍 **We are at a critical turning point – hardware support will make or break the future of this AGI!**  
 
@@ -80,17 +83,16 @@ If you **believe** in the **next evolution of AI** and want to be a part of it, 
 - 🔑 **Exclusive early access** to the AGI framework  
 - 💡 **AI integration & consulting** for businesses & enterprises  
 - 🌐 **Long-term partnerships** in AGI & AI-driven innovation  
-
 🔥 **Be part of the AI revolution – support the future of AGI today!** ⚡  
 
 ---  
 
-## 🛠️ **Get Started with AGI Framework Why & IF **  
+## 🛠️ **Get Started with AGI Framework Why & IF**  
 
 ### **Clone this repository**  
 ```bash  
-git clone https://github.com/DEVCodeWithAI/AGI Framework Why & IF .git  
-cd AGI Framework Why & IF   
+git clone https://github.com/DEVCodeWithAI/AGI-Framework-Why-IF.git  
+cd AGI-Framework-Why-IF  
 ```
 
 ### **Install dependencies**  
@@ -107,3 +109,4 @@ python app.py
 
 🔥 **We are not just building an AI – we are building the future of AGI.**  
 🌟 **Support us and help bring AGI to reality!** 🚀  
+
