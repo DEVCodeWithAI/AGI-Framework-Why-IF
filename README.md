@@ -47,14 +47,14 @@ Traditional AI analyzes, predicts, and responds—but lacks **true reasoning and
 
 ---
 
-🧠 Framework Development Inspired by Child Learning
+## 🧠 Framework Development Inspired by Child Learning
 
 The Why & IF Framework is developed by simulating the natural learning process of a child:
 
-    At birth, a child knows nothing.
-    As they grow, they learn words but do not understand their meaning—requiring adults to explain.
-    Once they understand meanings, they begin asking "Why?" to explore the world, and adults respond with "If" explanations.
-    Children store these "If" conditions, compare them, and verify their correctness as they mature.
+🔹 At birth, a child knows nothing.
+🔹 As they grow, they learn words but do not understand their meaning—requiring adults to explain.
+🔹 Once they understand meanings, they begin asking "Why?" to explore the world, and adults respond with "If" explanations.
+🔹 Children store these "If" conditions, compare them, and verify their correctness as they mature.
 
 This is exactly how the Why & IF Framework functions—learning, verifying, and refining knowledge without developing self-awareness.
 
