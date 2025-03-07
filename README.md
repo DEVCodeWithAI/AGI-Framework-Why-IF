@@ -109,7 +109,7 @@ This restriction ensures that AGI remains **a controlled and powerful tool**, on
 
 ## 🤝 **Partner With Me – Build the Future of AGI**  
 
-👤 **Name:** Vinh Tri Tran (*Trần Vĩnh Trí in Vietnamese*)  
+👤 **Name:** Kevin Tran
 📧 **Email:** [dev.codewithai@gmail.com](mailto:dev.codewithai@gmail.com)  
 🌐 **GitHub:** [AGI-Framework-Why-IF](https://github.com/DEVCodeWithAI/AGI-Framework-Why-IF)  
 
@@ -130,13 +130,6 @@ This restriction ensures that AGI remains **a controlled and powerful tool**, on
 ## 💰 **Support & Contribution**  
 
 📩 **For More Details** – Email us for detailed collaboration opportunities  
-
-### **Bank Transfer (Vietnam – Sacombank)**  
-
-🏦 **Bank Name:** Saigon Thuong Tin Commercial Joint Stock Bank (Sacombank)  
-👤 **Account Holder:** TRAN VINH TRI  
-🏛 **Account Number:** 0365704689  
-🌍 **Country:** Vietnam  
 
 ---
 
