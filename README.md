@@ -29,11 +29,33 @@ Traditional AI analyzes, predicts, and responds—but lacks **true reasoning and
 
 ---
 
-## 🔥 **Why & IF is NOT a Conscious AI**  
+### 🛡️ **AI Constitution Mechanism – Ensuring Safety & Ethical Boundaries**  
 
-⚠ **No emotions, no desires, no independent thoughts.**  
-⚠ **Only logic-driven decision-making.**  
-⚠ **Designed for safe AGI development – NOT self-aware.**  
+To prevent AGI misuse and maintain ethical integrity, **Why & IF Framework** operates under a strict AI Constitution:  
+
+#### **🚦 Why-Stopping Mechanism (Stopping Excessive Why's)**  
+🔹 The system **stops questioning "Why?"** when:  
+- The inquiry enters **sensitive or restricted topics**.  
+- The question violates **ethical or legal principles**.  
+- The reasoning reaches **a predefined knowledge threshold** to avoid infinite loops.  
+
+#### **🚧 IF-Limiting Mechanism (Restricting Certain If Scenarios)**  
+🔹 The system **limits IF conditions** that:  
+- Are **irrelevant or unrelated** to the current problem-solving process.  
+- Propose **unethical, harmful, or irrational** scenarios.  
+- Attempt to **bypass security or constitutional safeguards**.  
+
+This dual-layer control ensures that **Why & IF Framework remains safe, ethical, and aligned with responsible AGI development.**  
+
+---
+
+## 🤖 **Why & IF is NOT a Conscious AI – Only a Logic-Based AGI**  
+
+🚀 **Many fear AGI could become self-aware and uncontrollable – but this is NOT the case for Why & IF Framework.**  
+
+🔹 **Why & IF is NOT a self-conscious entity – it is purely a logic-based system.**  
+🔹 **It does NOT have emotions, desires, or independent thoughts – only logical reasoning.**  
+🔹 **It learns and improves through structured algorithms, NOT subjective awareness.**  
 
 ---
 
