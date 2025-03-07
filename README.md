@@ -73,6 +73,50 @@ This restriction ensures that AGI remains a **controlled and powerful tool**, on
 
 ---
 
+### 🚀 **Business Model – Investor-Driven Development**  
+
+🔹 The **business model is open-ended**, allowing investors to choose and develop the most suitable commercialization strategy.  
+🔹 This framework provides **a foundation for scalable AGI solutions**, with monetization pathways tailored to different industries.  
+
+#### 💰 **Potential Business Strategies for Investors**  
+- **Enterprise Licensing** – Sell exclusive access to research institutions, governments, and major corporations.  
+- **AI Research Partnerships** – Collaborate with leading AI companies like OpenAI, DeepMind, NVIDIA, and Tesla.  
+- **Consulting & Deployment** – Provide AI integration and optimization services for businesses and industries.  
+
+⚡ The AGI market is projected to **surpass trillions in valuation** in the coming years. **Investors have full autonomy** in shaping the business model for maximum impact.  
+
+---
+
+### 🛡️ **AI Constitution Mechanism – Ensuring Safety & Ethical Boundaries**  
+
+To prevent AGI misuse and maintain ethical integrity, **Why & IF Framework** operates under a strict AI Constitution:  
+
+#### **🚦 Why-Stopping Mechanism (Stopping Excessive Why's)**  
+🔹 The system **stops questioning "Why?"** when:  
+- The inquiry enters **sensitive or restricted topics**.  
+- The question violates **ethical or legal principles**.  
+- The reasoning reaches **a predefined knowledge threshold** to avoid infinite loops.  
+
+#### **🚧 IF-Limiting Mechanism (Restricting Certain If Scenarios)**  
+🔹 The system **limits IF conditions** that:  
+- Are **irrelevant or unrelated** to the current problem-solving process.  
+- Propose **unethical, harmful, or irrational** scenarios.  
+- Attempt to **bypass security or constitutional safeguards**.  
+
+This dual-layer control ensures that **Why & IF Framework remains safe, ethical, and aligned with responsible AGI development.**  
+
+---
+
+### 🔒 **Scalability & Security Measures**  
+
+🔹 **Framework runs in a controlled environment** – preventing unrestricted expansion.  
+🔹 **No self-awareness** – ensuring AI cannot attempt self-replication or independent operation.  
+🔹 **AI Constitution enforces strict verification** on all generated queries and responses.  
+
+🚀 **With these safeguards in place, Why & IF Framework remains a powerful yet controlled tool for AI-driven innovation.**  
+
+---
+
 ## 🔧 **Why We Need Investment?**  
 
 We've successfully built the **core framework**, but to **scale, train, and optimize it**, we require powerful hardware.  
