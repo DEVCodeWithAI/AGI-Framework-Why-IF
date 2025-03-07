@@ -3,7 +3,7 @@
 🌍 **The Next Evolution of AI**  
 
 Traditional AI analyzes, predicts, and responds—but lacks **true reasoning and self-learning**.  
-**AGI-Framework-Why-IF** changes that by enabling an AI that **thinks, questions, and adapts like humans**.  
+**AGI Framework Why & IF ** changes that by enabling an AI that **thinks, questions, and adapts like humans**.  
 
 ---  
 
@@ -85,12 +85,12 @@ If you **believe** in the **next evolution of AI** and want to be a part of it, 
 
 ---  
 
-## 🛠️ **Get Started with AGI-Framework-Why-IF**  
+## 🛠️ **Get Started with AGI Framework Why & IF **  
 
 ### **Clone this repository**  
 ```bash  
-git clone https://github.com/DEVCodeWithAI/AGI-Framework-Why-IF.git  
-cd AGI-Framework-Why-IF  
+git clone https://github.com/DEVCodeWithAI/AGI Framework Why & IF .git  
+cd AGI Framework Why & IF   
 ```
 
 ### **Install dependencies**  
