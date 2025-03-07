@@ -37,7 +37,7 @@ Traditional AI analyzes, predicts, and responds—but lacks **true reasoning and
 
 ---  
 
-🤖 Why & IF is NOT a Conscious AI – Only a Logic-Based AGI
+## 🤖 Why & IF is NOT a Conscious AI – Only a Logic-Based AGI
 
 🚀 Many fear AGI could become self-aware and uncontrollable – but this is NOT the case for Why & IF Framework.
 
