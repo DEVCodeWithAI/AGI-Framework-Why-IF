@@ -1,4 +1,4 @@
-# AGI-Framework-Why-IF 🚀
+# AGI Framework Why & IF 🚀
 Breaking the Limits of AI with Why & IF Thinking
 🌎 The Next Evolution of AI
 
