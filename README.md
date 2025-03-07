@@ -38,7 +38,7 @@ With the right hardware, we can **accelerate fine-tuning, enhance real-time deci
 
 We are actively looking for **sponsorship, investment, or hardware support** to acquire **one of the following GPUs**:
 
-✔ **NVIDIA RTX 5090** *(Upcoming, Best Consumer-Level GPU for AI fine-tuning)*  
+✔ **NVIDIA RTX 5090** *(Best Consumer-Level GPU for AI fine-tuning)*  
 ✔ **NVIDIA RTX A6000 Ada** *(High-End Workstation GPU for AI & AGI workloads)*  
 ✔ **NVIDIA H100 PCIe** *(Cutting-Edge AI GPU for Research & AGI Training)*
 
