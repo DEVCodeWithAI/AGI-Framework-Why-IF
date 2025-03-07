@@ -124,9 +124,38 @@ This is exactly how the **Why & IF Framework** functions—learning, verifying, 
 
 ## 🤝 **Partner With Me – Build the Future of AGI**  
 
-📧 **Email:** [dev.codewithai@gmail.com](mailto:dev.codewithai@gmail.com)  
-🌐 **GitHub:** [AGI-Framework-Why-IF](https://github.com/DEVCodeWithAI/AGI-Framework-Why-IF)  
+- 👤 **Name:** Vinh Tri Tran (*Trần Vĩnh Trí in Vietnamese*)  
+- 📧 **Email:** [dev.codewithai@gmail.com](mailto:dev.codewithai@gmail.com)  
+- 🌐 **GitHub:** [AGI-Framework-Why-IF](https://github.com/DEVCodeWithAI/AGI-Framework-Why-IF)  
 
 ---
 
-🔥 **Support independent AI research and help bring AGI to reality!** 🚀  
+### **🔑 We are open to:**  
+- 👨‍🎓 **Investors** – Supporting AGI research with **hardware or funding**  
+- 🛠️ **Hardware Sponsors** – Direct GPU sponsorship to **accelerate AGI development**  
+- 🏢 **Research Collaborations** – Universities, AI labs, and industry leaders  
+
+### **🌟 In return, we offer:**  
+- 🔑 **Exclusive early access** to the AGI framework  
+- 💡 **AI integration & consulting** for businesses & enterprises  
+- 🌐 **Long-term partnerships** in AGI & AI-driven innovation  
+
+🔥 **Be part of the AI revolution – support the future of AGI today!** ⚡  
+
+---  
+
+## 💰 **Support & Contribution**  
+
+### 🔹 **For More Details**  
+📩 **Email us for detailed collaboration opportunities**  
+
+### 🔹 **Bank Transfer (Vietnam – Sacombank)**  
+🏦 **Bank Name:** Saigon Thuong Tin Commercial Joint Stock Bank (Sacombank)  
+👤 **Account Holder:** TRAN VINH TRI  
+🏛 **Account Number:** 0365704689  
+🌍 **Country:** Vietnam  
+
+---  
+
+🔥 **We are not just building an AI – we are building the future of AGI.**  
+🌟 **Support us and help bring AGI to reality!** 🚀  
