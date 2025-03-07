@@ -1,0 +1,10 @@
+torch
+transformers
+sentencepiece
+numpy
+pandas
+scikit-learn
+requests
+Flask
+fastapi
+uvicorn
