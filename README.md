@@ -78,3 +78,10 @@ If you **believe** in the **next evolution of AI** and want to be a part of it, 
 ```bash
 git clone https://github.com/DEVCodeWithAI/AGI-Framework-Why-IF.git
 cd AGI-Framework-Why-IF
+### **Install dependencies**  
+```bash
+pip install -r requirements.txt
+Run the framework
+python app.py
+
+
