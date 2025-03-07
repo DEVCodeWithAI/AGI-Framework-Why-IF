@@ -176,9 +176,6 @@ If you **believe** in the **next evolution of AI** and want to be a part of it, 
 ### 🔹 **For More Details**  
 📩 **Email us for detailed collaboration opportunities**  
 
-### 🔹 **Donate via PayPal**  
-💳 **PayPal Email:** [manager@rec-file.com](mailto:manager@rec-file.com)  
-
 ### 🔹 **Bank Transfer (Vietnam – Sacombank)**  
 🏦 **Bank Name:** Saigon Thuong Tin Commercial Joint Stock Bank (Sacombank)  
 👤 **Account Holder:** TRAN VINH TRI  
