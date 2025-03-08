@@ -101,11 +101,6 @@ Many ask:
 💡 *"Why not just buy GPUs yourself?"*  
 💡 *"If you’re serious about AGI, why not invest in your own hardware?"*  
 
-### 🛡️ 1️⃣ High-End AI GPUs Attract Unwanted Attention  
-- Buying **NVIDIA H100 PCIe or RTX A6000 Ada** in **Vietnam** is **not simple**.  
-- These GPUs **are heavily monitored** due to their AI capabilities.  
-- Purchasing high-end AI hardware **can trigger scrutiny** from authorities & tech regulators.  
-
 🔥 **A sponsored GPU as a "gift" keeps AGI development low-profile & efficient.**  
 
 ---
