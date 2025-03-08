@@ -130,7 +130,6 @@ Many ask:
 
 ### 🚀 The Only Support I Accept: REAL GPUs  
 ✔ **NVIDIA RTX A6000 Ada** – Professional AI workstation GPU  
-✔ **NVIDIA H100 PCIe** – Top-tier AI research GPU  
 
 If you believe in **decentralized AGI development**,  
 🔥 **Support me with a real GPU, not money.**   
