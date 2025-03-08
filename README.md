@@ -95,6 +95,7 @@ To prevent AGI misuse and maintain ethical integrity, Why & IF Framework operate
 
 ---
 
+<<<<<<< HEAD
 ## 🚀 Why I Prefer GPU Sponsorship Over Buying Directly  
 
 Many ask:  
@@ -157,6 +158,16 @@ If you believe in true decentralized AGI,
 
 ----
 
+=======
+## 🚀 **We Need High-Performance GPUs to Continue Development!**  
+### **Critical Hardware Needed:**  
+✔ **NVIDIA RTX 5090** – Best consumer-level AI GPU.  
+✔ **NVIDIA RTX A6000 Ada** – High-end workstation GPU.  
+✔ **NVIDIA H100 PCIe** – Cutting-edge AI research GPU.  
+
+---
+
+>>>>>>> 1910eea (Cập nhật README.md với thông tin về AGI Framework Why & IF)
 ## 🤝 Partner With Me – Build the Future of AGI  
 👤 **Name:** Kevin Tran  
 📧 **Email:** dev.codewithai@gmail.com  
