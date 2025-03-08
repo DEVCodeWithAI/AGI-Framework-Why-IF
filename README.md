@@ -95,11 +95,45 @@ To prevent AGI misuse and maintain ethical integrity, Why & IF Framework operate
 
 ---
 
-## 🚀 **We Need High-Performance GPUs to Continue Development!**  
-### **Critical Hardware Needed:**  
-✔ **NVIDIA RTX 5090** – Best consumer-level AI GPU.  
-✔ **NVIDIA RTX A6000 Ada** – High-end workstation GPU.  
-✔ **NVIDIA H100 PCIe** – Cutting-edge AI research GPU.  
+## 🚀 Why I Prefer GPU Sponsorship Over Buying Directly  
+
+Many ask:  
+💡 *"Why not just buy GPUs yourself?"*  
+💡 *"If you’re serious about AGI, why not invest in your own hardware?"*  
+
+### 🛡️ 1️⃣ High-End AI GPUs Attract Unwanted Attention  
+- Buying **NVIDIA H100 PCIe or RTX A6000 Ada** in **Vietnam** is **not simple**.  
+- These GPUs **are heavily monitored** due to their AI capabilities.  
+- Purchasing high-end AI hardware **can trigger scrutiny** from authorities & tech regulators.  
+
+🔥 **A sponsored GPU as a "gift" keeps AGI development low-profile & efficient.**  
+
+---
+
+### 🚫 2️⃣ Avoiding Bureaucracy & Restrictions  
+- **High-performance AI GPUs require import clearance** & may raise **red flags**.  
+- If an AI researcher in Vietnam suddenly buys multiple H100s, **it can raise questions**.  
+- Instead of dealing with **paperwork & unnecessary delays**, I prefer direct sponsorship.  
+
+🔥 **A gifted GPU allows me to focus on AGI development, not administrative hurdles.**  
+
+---
+
+### 🔍 3️⃣ Ensuring AGI Development Remains Independent  
+- **I do not want AGI development to be tracked or controlled**.  
+- Sponsorship in the form of a **physical GPU gift** ensures complete independence.  
+- This prevents **corporate or governmental oversight** from interfering with research.  
+
+🔥 **If you truly believe in independent AGI research, I welcome GPU sponsorship as a gift.**  
+
+---
+
+### 🚀 The Only Support I Accept: REAL GPUs  
+✔ **NVIDIA RTX A6000 Ada** – Professional AI workstation GPU  
+✔ **NVIDIA H100 PCIe** – Top-tier AI research GPU  
+
+If you believe in **decentralized AGI development**,  
+🔥 **Support me with a real GPU, not money.**   
 
 ---
 
