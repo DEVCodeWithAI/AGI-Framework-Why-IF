@@ -105,17 +105,8 @@ Many ask:
 
 ---
 
-### 🚫 2️⃣ Avoiding Bureaucracy & Restrictions  
-- **High-performance AI GPUs require import clearance** & may raise **red flags**.  
-- If an AI researcher in Vietnam suddenly buys multiple H100s, **it can raise questions**.  
-- Instead of dealing with **paperwork & unnecessary delays**, I prefer direct sponsorship.  
-
-🔥 **A gifted GPU allows me to focus on AGI development, not administrative hurdles.**  
-
----
-
-### 🔍 3️⃣ Ensuring AGI Development Remains Independent  
-- **I do not want AGI development to be tracked or controlled**.  
+### 🔍 1️⃣ Ensuring AGI Development Remains Independent  
+- **I do not want AGI development to be tracked or controlled.**  
 - Sponsorship in the form of a **physical GPU gift** ensures complete independence.  
 - This prevents **corporate or governmental oversight** from interfering with research.  
 
@@ -123,11 +114,20 @@ Many ask:
 
 ---
 
-### 🚀 The Only Support I Accept: REAL GPUs  
-✔ **NVIDIA RTX A6000 Ada** – Professional AI workstation GPU  
+### 🚀 2️⃣ The Only Support I Accept: REAL GPUs, Not Money  
+✔ **NVIDIA RTX A6000 Ada (48GB)** – Professional AI workstation GPU  
+✔ **4x A6000 Ada** → The ultimate setup for independent AGI research  
 
-If you believe in **decentralized AGI development**,  
-🔥 **Support me with a real GPU, not money.**   
+🔥 **Support me with real hardware, not cloud access or financial donations.**  
+
+---
+
+### 🔒 3️⃣ Why Not Buy 4x A6000 Ada Myself?  
+- In **Vietnam**, purchasing **4x A6000 Ada** is extremely **difficult and highly noticeable.**  
+- High-end GPU purchases often attract **unwanted attention and scrutiny.**  
+- **A direct sponsorship helps bypass these issues while keeping AGI development independent.**  
+
+🔥 **By supporting me with real GPUs as a gift, you contribute to truly decentralized AGI research.** 🚀  
 
 ---
 
